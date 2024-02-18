@@ -11,7 +11,8 @@ public class Main {
             // for you, but you can always add more by pressing <shortcut actionId="ToggleLineBreakpoint"/>.
             System.out.println("i = " + i);
         }
-        String str="Anil";
-        System.out.println(str.substring(2));
+        System.out.println("God is great");
+        for(int j=5;j>=0;j--)
+            System.out.println(j);
     }
 }
